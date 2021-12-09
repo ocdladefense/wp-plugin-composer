@@ -3,7 +3,6 @@
     "name": "ocdladefense/wp-composer",
     "description": "WordPress plugin to require the composer autoloader.",
     "type": "wordpress-plugin",
-    "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
         "composer/installers":"~1.0"
